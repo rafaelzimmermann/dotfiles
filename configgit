@@ -1,0 +1,4 @@
+#!/bin/bash
+
+sudo git config --system branch.main.pushRemote no_push
+sudo git config --system branch.master.pushRemote no_push

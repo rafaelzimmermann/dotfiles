@@ -8,8 +8,5 @@ cp ~/dotfiles/.zlogout ~/.zlogout
 sudo apt install -y \
   tcpdump \
   telnet
-  
 
-
-
-
+sudo bash ~/dotfiles/configgit
