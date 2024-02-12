@@ -10,3 +10,7 @@ sudo apt install -y \
   telnet
 
 sudo bash ~/dotfiles/configgit
+
+git clone https://github.com/rafaelzimmermann/linux-bootstrap.git
+cd linux-bootstrap
+bash bootstrap-server
